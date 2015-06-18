@@ -13,6 +13,7 @@ class CalculatorModel {
     var jamon: Int8
     var jamonSin: Int8
     var tortilla: Int8
+    var cualquierCosa:Bool = true
     
     var jamonSubTotal: Double
     var jamonSinSubTotal: Double
